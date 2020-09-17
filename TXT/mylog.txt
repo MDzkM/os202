@@ -1,0 +1,10 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00  10 L00 General Log
+ZCZC W00  10 L01 SCELE related
+ZCZC W00 120 L02 ZOOM (Synchronous Class)
+ZCZC W00  30 L03 GitHub related: Create repo and file structure
+ZCZC W00  10 L04 GitHub Pages related: Create Github Page for repo
+ZCZC W00   5 L05 GSGS related: Create Github Page without cloning
+ZCZC W00  15 L06 Reading References/Books/Documents: Licenses to use in a repository
