@@ -2,13 +2,11 @@
 Welcome to my **[Github Page](https://mdzkm.github.io/os202/)**!
 <br>
 <hr>
-<br>
 You can view the repository for this website **[here](https://github.com/mdzkm/os202/)**.
 <br>
 And **[here](TXT/mylog.txt)** you can see my weekly log.
 <br>
 <hr>
-<br>
 Below is a list of interesting informations related to Operating Systems or just stuff in general. Just click the link down here:
 * [Week 00](W00/)
 * [Week 01](W01/)
