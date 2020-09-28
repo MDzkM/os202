@@ -1,10 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00  10 L00 General Log
-ZCZC W00  10 L01 SCELE related
-ZCZC W00 120 L02 ZOOM (Synchronous Class)
-ZCZC W00  30 L03 GitHub related: Create repo and file structure
-ZCZC W00  10 L04 GitHub Pages related: Create Github Page for repo
-ZCZC W00   5 L05 GSGS related: Create Github Page without cloning
-ZCZC W00  15 L06 Reading References/Books/Documents: Licenses to use in a repository
+ZCZC W01  20 L00 General Log
+ZCZC W01  40 L01 SCELE related (re-reading the same materials that can be found in os.vlsm.org)
+ZCZC W01 120 L02 ZOOM (Synchronous Class)
+ZCZC W01  30 L03 GitHub related: Clone repository
+ZCZC W01  45 L05 GSGS related: How to create ssh tunnel, what commands are not available in WSL
+ZCZC W01  30 L06 Reading References/Books/Documents: Differences and comparison between bash and zsh, sudo su and su, and rsync and scp
