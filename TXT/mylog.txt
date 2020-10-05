@@ -14,3 +14,5 @@ ZCZC W01 120 L02 ZOOM (Synchronous Class)
 ZCZC W01  30 L03 GitHub related: Clone repository
 ZCZC W01  45 L05 GSGS related: How to create ssh tunnel, what commands are not available in WSL
 ZCZC W01  30 L06 Reading References/Books/Documents: Differences and comparison between bash and zsh, sudo su and su, and rsync and scp
+ZCZC W02  15 L00 General Log
+ZCZC W02  10 L01 SCELE related
