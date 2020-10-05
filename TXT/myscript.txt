@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# This is a script to insert top 10 interesting things
-# you have found this week as title with hyperlinks
-# into WXX.md
-
 clear
 
 LOG_FILE="mylog.txt"
