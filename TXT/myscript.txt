@@ -240,4 +240,5 @@ do
 	echo "[7] Push all changes"
 
 	read -p "Enter your choice: " OPTION
+	clear
 done
