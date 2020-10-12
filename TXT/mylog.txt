@@ -21,3 +21,11 @@ ZCZC W02  90 L03 Github related: Create script, add public key, myrank, weekly t
 ZCZC W02   5 L04 Github Pages: setting, etc.: Add extra description and links at landing page
 ZCZC W02  30 L05 GSGS related: Search for how to loop, conditional statements, etc. related to bash scripting
 ZCZC W02  30 L06 Reading References/Books/Documents: Chapter 16 and 17 of OSC
+ZCZC W03  10 L00 General Log
+ZCZC W03  30 L01 SCELE related
+ZCZC W03 120 L02 ZOOM related
+ZCZC W03  60 L03 Github related: Update weekly files and SHA256SUM
+ZCZC W03  45 L05 GSGS related: C language basics
+ZCZC W03  30 L06 Reading References/Books/Documents: Chapter 13, 14, and 15 OSC
+ZCZC W03  20 L08 Trying something: Create a simple C program
+ZCZC W03   5 L09 Asdos: asking, etc.: Assignment related
