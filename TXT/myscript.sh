@@ -4,7 +4,7 @@ clear
 
 LOG_FILE="mylog.txt"
 RANK_FILE="myrank.txt"
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 LOG_CODES=("General Log" "SCELE related" "ZOOM related" "Github related" "Github Pages: setting, etc." "GSGS related" "Reading References/Books/Documents" "Demo related" "Trying something" "AsDos: asking, etc." "Assignment (General)" "Assignment #1" "Assignment #2" "Assignment #3" "Assignment #4" "Assignment #5" "Assignment #6" "Assignment #7" "Assignment #8" "Assignment #9" "Assignment #10" "VirtualBox: install GNU/Linux, etc." "Youtube: study, etc." "Discord: discussion, etc." "Udacity: study, etc." "C-language: study, etc." "Movie: relax, etc." "Other (...)")
