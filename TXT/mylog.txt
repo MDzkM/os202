@@ -33,3 +33,5 @@ ZCZC W04  15 L00 General Log
 ZCZC W04  10 L01 SCELE related
 ZCZC W04 120 L02 ZOOM related
 ZCZC W04  25 L03 Github related: Update weekly files
+ZCZC W04  60 L05 GSGS related: Addresses, Pointers, and Shared Libraries
+ZCZC W04  10 L06 Reading References/Books/Documents: Chapter 9 OSC
