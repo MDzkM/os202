@@ -29,3 +29,7 @@ ZCZC W03  45 L05 GSGS related: C language basics
 ZCZC W03  30 L06 Reading References/Books/Documents: Chapter 13, 14, and 15 OSC
 ZCZC W03  20 L08 Trying something: Create a simple C program
 ZCZC W03   5 L09 Asdos: asking, etc.: Assignment related
+ZCZC W04  15 L00 General Log
+ZCZC W04  10 L01 SCELE related
+ZCZC W04 120 L02 ZOOM related
+ZCZC W04  25 L03 Github related: Update weekly files
