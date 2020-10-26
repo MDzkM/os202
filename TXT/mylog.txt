@@ -35,3 +35,10 @@ ZCZC W04 120 L02 ZOOM related
 ZCZC W04  25 L03 Github related: Update weekly files
 ZCZC W04  60 L05 GSGS related: Addresses, Pointers, and Shared Libraries
 ZCZC W04  10 L06 Reading References/Books/Documents: Chapter 9 OSC
+ZCZC W05  10 L00 General Log
+ZCZC W05  15 L01 SCELE related
+ZCZC W05 120 L02 ZOOM related
+ZCZC W05  20 L03 Github related: Update weekly files
+ZCZC W05  60 L04 Github Pages: setting, etc.: Create week05 page and content
+ZCZC W05  45 L05 GSGS related: top command and memory allocation
+ZCZC W05  10 L06 Reading References/Books/Documents: Chapter 10 OSC
