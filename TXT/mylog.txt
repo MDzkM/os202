@@ -55,3 +55,8 @@ ZCZC W07  60 L03 Github related: Update weekly files
 ZCZC W07  15 L04 Github Pages: setting, etc.
 ZCZC W07  45 L05 GSGS related: sem_post(), sem_wait(), etc.
 ZCZC W07  20 L06 Reading References/Books/Documents: OSC10 chapter 6, 7, & 8
+ZCZC W08  15 L00 General Log
+ZCZC W08  10 L01 SCELE related
+ZCZC W08 120 L02 ZOOM related
+ZCZC W08  30 L03 Github related: Update weekly files
+ZCZC W08  90 L04 Github Pages: setting, etc.: Create W08 page and content
